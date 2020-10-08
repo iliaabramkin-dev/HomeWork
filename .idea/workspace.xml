@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ed3c7c-b344-4e24-9402-a615890c3f5f" name="Default Changelist" comment="yuiyu678675665785678" />
+    <list default="true" id="e2ed3c7c-b344-4e24-9402-a615890c3f5f" name="Default Changelist" comment="yuiyu678675665785678">
+      <change afterPath="$PROJECT_DIR$/src/prack1/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prack1/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ewrtwe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prack1/pergfdg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sdfgsdf.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +40,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -60,7 +65,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/prack1" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,6 +78,21 @@
       <option name="presentableId" value="Default" />
       <updated>1602170434909</updated>
     </task>
+    <task id="LOCAL-00001" summary="yuiyu678675665785678">
+      <created>1602171960519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602171960519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="yuiyu678675665785678">
+      <created>1602172051680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602172051680</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,18 +107,26 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yuiyu678675665785678" />
+    <option name="LAST_COMMIT_MESSAGE" value="yuiyu678675665785678" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="459" y="66" key="RollbackChangesDialog" timestamp="1602172144539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602172144539" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1602171895200">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602171895200" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602171840226">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602172061652">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602171840226" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602171325359">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602172061652" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602172130863">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602171325359" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602172130863" />
   </component>
 </project>
